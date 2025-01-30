@@ -48,7 +48,7 @@ body {
 
 .text {
     display: flex;
-    font-size: 3em;
+    font-size: 2em;
     border-right: 5px solid;
     width: 100%;
     white-space: nowrap;
